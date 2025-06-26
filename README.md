@@ -1,5 +1,12 @@
 #  COVID-19 Data Analysis Project – Summary
+##  Project Overview
 
+This COVID‑19 Data Analysis project fetches up‑to‑date global case figures, transforms raw data with feature engineering, and generates key visualizations to understand pandemic trends. It helps identify:
+- Countries with highest cases & mortality
+- How active cases relate to total cases and recoveries
+- Regional differences by continent
+
+It's a practical showcase of end-to-end data analytics: API fetch → clean → analyze → visualize.
 ##  What This Project Does
 
 This project performs a full analysis pipeline for global COVID-19 data:
