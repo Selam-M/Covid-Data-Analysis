@@ -83,3 +83,10 @@ pip install -r requirements.txt
 - Some continents showed much lower case counts despite high population
 - Active cases formed the majority of total cases in most regions
 
+
+## 📊 View the Project
+
+- 👉 [Run in Google Colab](https://colab.research.google.com/github/Selam-M/Covid-Data-Analysis/blob/main/THE%20COVID%20PROJECT.ipynb)
+- 👀 [View in nbviewer](https://nbviewer.org/github/Selam-M/Covid-Data-Analysis/blob/main/THE%20COVID%20PROJECT.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Selam-M/Covid-Data-Analysis/blob/main/THE%20COVID%20PROJECT.ipynb)
