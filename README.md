@@ -52,3 +52,34 @@ Edit
 THE COVID PROJECT.ipynb
 Run all cells step-by-step to reproduce the analysis.
 
+## Tools and Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- API Requests (for data fetching)
+- Git and GitHub
+
+## Sample Visualizations
+
+Bar chart of top 10 countries by total cases:
+
+![Top 10 Countries by Cases](images/top_10_cases_bar.png)
+
+
+## How to Run
+
+1. Clone the repo  
+2. Install dependencies  
+```bash
+pip install -r requirements.txt
+
+
+## Key Results / Insights
+
+- Countries with the highest mortality rates differ from those with the highest total cases
+- Some continents showed much lower case counts despite high population
+- Active cases formed the majority of total cases in most regions
+
