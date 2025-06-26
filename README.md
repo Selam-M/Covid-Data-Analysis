@@ -44,7 +44,7 @@ Install all required Python libraries:
 pip install -r requirements.txt
 ## How to Run
 Launch Jupyter Lab or Notebook and open:
-
+```
 nginx
 Copy
 Edit
@@ -75,6 +75,7 @@ Bar chart of top 10 countries by total cases:
 2. Install dependencies  
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Key Results / Insights
